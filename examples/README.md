@@ -2,13 +2,12 @@
 
 The `ballerinax/ebay.listing` connector provides practical examples illustrating usage in various scenarios.
 
-[//]: # (TODO: Add examples)
-1. 
-2. 
+1. [partner_item_listing_draft](./partner_item_listing_draft/partner_item_listing_draft.md) - Create a draft from a partner site item and print the URL the seller follows to publish it.
+2. [charity_catalog_drafts](./charity_catalog_drafts/charity_catalog_drafts.md) - Create charity linked auction drafts for several catalog items.
 
 ## Prerequisites
 
-[//]: # (TODO: Add prerequisites)
+Each example needs an eBay developer application approved for the Listing API and an OAuth refresh token with the `https://api.ebay.com/oauth/api_scope/sell.item.draft` scope. Create a `Config.toml` in the example directory with the values listed in its document.
 
 ## Running an example
 

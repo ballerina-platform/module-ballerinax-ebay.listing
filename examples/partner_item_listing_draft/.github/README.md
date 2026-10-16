@@ -1,0 +1,1 @@
+../partner_item_listing_draft.md

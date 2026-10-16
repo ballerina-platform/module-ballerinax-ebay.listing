@@ -1,0 +1,8 @@
+[package]
+org = "ballerinax"
+name = "partner_item_listing_draft"
+version = "0.1.0"
+distribution = "2201.12.0"
+
+[build-options]
+observabilityIncluded = true
